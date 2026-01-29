@@ -8,7 +8,7 @@ MidnightHub is a custom hub built using **RedzLib**, authorized by **tlredz**.
 - Easy to integrate and use
 
 ## Links
-- **Discord – RedzLib / RedzHub:** [discord.com/redzhub](https://discord.com/redzhub)  
+- **Discord – RedzLib / RedzHub:** [discord.gg/redzhub](https://discord.gg/redzhub)  
 - **Original UI by tlredz:** [GitHub Repository](https://github.com/tlredz/Library/tree/main/redz-V5-remake)  
 
 ## Installation
